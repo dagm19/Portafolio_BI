@@ -7,7 +7,7 @@ Este proyecto tiene como finalidad analizar y visualizar los datos relacionados 
 **[DATASET](https://analisis.datosabiertos.jcyl.es/explore/dataset/donaciones-de-sangre-y-aferesis/information/)**
 
 > ***Nota:** Si deseas utilizar este proyecto en tu propio equipo, recuerda que la ruta al archivo del dataset puede ser diferente.  
-> Asegúrate de **actualizar** la ruta del archivo en Power BI para que apunte a la ubicación correcta dentro de tu sistema local.*
+> Asegúrate de **actualizar** la ruta del archivo en Power BI en el parametro **ruta** para que apunte a la ubicación correcta dentro de tu sistema local.*
 
 ## Objetivo
 

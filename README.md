@@ -22,3 +22,12 @@ Los datos provienen del portal de datos abiertos de la Junta de Castilla y León
 🔗 **[Ver dataset oficial](https://analisis.datosabiertos.jcyl.es/explore/dataset/donaciones-de-sangre-y-aferesis/information/)**
 
 ---
+
+#### **2. Animales en Adopción, Perdidos y Encontrados en Washington:**
+
+Visualización de animales en adopción, perdidos y encontrados en Washington, en donde se muestra información relevante y estadística sobre estos animales.  
+Los datos provienen del portal de datos abiertos de data.gov
+
+🔗 **[Ver dataset oficial](https://catalog.data.gov/dataset/lost-found-adoptable-pets)**
+
+---
